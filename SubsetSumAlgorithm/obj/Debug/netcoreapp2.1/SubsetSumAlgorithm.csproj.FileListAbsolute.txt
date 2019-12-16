@@ -1,0 +1,10 @@
+C:\_Repos\SubsetSumAlgorithm\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.deps.json
+C:\_Repos\SubsetSumAlgorithm\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.runtimeconfig.json
+C:\_Repos\SubsetSumAlgorithm\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.runtimeconfig.dev.json
+C:\_Repos\SubsetSumAlgorithm\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.dll
+C:\_Repos\SubsetSumAlgorithm\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.pdb
+C:\_Repos\SubsetSumAlgorithm\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.AssemblyInfoInputs.cache
+C:\_Repos\SubsetSumAlgorithm\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.AssemblyInfo.cs
+C:\_Repos\SubsetSumAlgorithm\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.dll
+C:\_Repos\SubsetSumAlgorithm\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.pdb
+C:\_Repos\SubsetSumAlgorithm\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.csprojAssemblyReference.cache

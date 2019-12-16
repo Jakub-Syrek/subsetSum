@@ -1,0 +1,17 @@
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.deps.json
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.runtimeconfig.json
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.runtimeconfig.dev.json
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.dll
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.pdb
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.dll
+C:\_Repos\SubsetSumAlgorithm.UnitTests\bin\Debug\netcoreapp2.1\SubsetSumAlgorithm.pdb
+C:\_Repos\SubsetSumAlgorithm.UnitTests\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.csprojAssemblyReference.cache
+C:\_Repos\SubsetSumAlgorithm.UnitTests\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.AssemblyInfoInputs.cache
+C:\_Repos\SubsetSumAlgorithm.UnitTests\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.AssemblyInfo.cs
+C:\_Repos\SubsetSumAlgorithm.UnitTests\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.csproj.CopyComplete
+C:\_Repos\SubsetSumAlgorithm.UnitTests\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.dll
+C:\_Repos\SubsetSumAlgorithm.UnitTests\obj\Debug\netcoreapp2.1\SubsetSumAlgorithm.UnitTests.pdb
